@@ -16,5 +16,5 @@ The main goal of this project is to:
 - Requests (for sending HTTP requests)
 - Pandas(for data cleaning and manipulation)
 
-## 📂 Project Structure
+
 
